@@ -4,10 +4,8 @@ import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Selectors;
 import io.qameta.allure.Link;
 import io.qameta.allure.Owner;
-import io.qameta.allure.Severity;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import org.openqa.selenium.By;
 
 import static com.codeborne.selenide.Selenide.*;
 
