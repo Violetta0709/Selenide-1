@@ -21,6 +21,6 @@ public class GitHubTest {
         open("https://github.com/");
         $(byText("Solutions")).hover();
         $(byText("Enterprise")).click();
-        $(".enterprise-hero").shouldHave(text("Build like the best"));
+        $("h1").shouldHave(text("Build like the best"));
     }
 }

@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a556f267-12ae-4073-bd42-8e8e8ba71236" name="Changes" comment="homework test">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/veta/DragDropTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/veta/GitHubTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/veta/SoftAssertionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/veta/SoftAssertionsTest.java" afterDir="false" />
+    <list default="true" id="a556f267-12ae-4073-bd42-8e8e8ba71236" name="Changes" comment="1.Find Build like the best page&#10;2.Drag&amp;Drop">
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/veta/GitHubTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/veta/GitHubTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +197,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665939324030</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1.Find Build like the best page&#10;2.Drag&amp;Drop">
+      <created>1668714020621</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668714020621</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1.Find Build like the best page&#10;2.Drag&amp;Drop">
+      <created>1668714029747</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668714029747</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,6 +230,7 @@
     <MESSAGE value="2nd commit" />
     <MESSAGE value="buildgradle edit" />
     <MESSAGE value="homework test" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework test" />
+    <MESSAGE value="1.Find Build like the best page&#10;2.Drag&amp;Drop" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.Find Build like the best page&#10;2.Drag&amp;Drop" />
   </component>
 </project>
